@@ -16,9 +16,9 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "Toronto",
+      "Name": "Black",
       "FLAG": "ca",
-      "ServerIP": "68.183.153.31",
+      "ServerIP": "54.90.198.32",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
