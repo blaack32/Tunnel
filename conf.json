@@ -1,60 +1,12 @@
 {
-  "Version": "6.0.0",
-  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
+  "Version": "7.0.0",
+  "ReleaseNotes": "Service restored",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "kr",
-      "ServerIP": "68.183.153.31",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Canada",
-      "FLAG": "ca",
       "ServerIP": "54.90.198.32",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "London",
-      "FLAG": "uk",
-      "ServerIP": "138.68.161.193",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "Singapore",
-      "FLAG": "Ir",
-      "ServerIP": "170.187.224.153",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "America",
-      "FLAG": "us",
-      "ServerIP": "143.110.208.193",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
