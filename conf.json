@@ -1,12 +1,12 @@
 {
-  "Version": "9.0.0",
+  "Version": "10.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "kr",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "137.184.88.98",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "Canada",
       "FLAG": "ca",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "137.184.88.98",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
     {
       "Name": "London",
       "FLAG": "uk",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "137.184.88.98",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
     {
       "Name": "Singapore",
       "FLAG": "Ir",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "137.184.88.98",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
     {
       "Name": "America",
       "FLAG": "us",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "137.184.88.98",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
