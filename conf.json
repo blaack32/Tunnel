@@ -1,11 +1,23 @@
 {
-  "Version": "18.0.0",
-  "ReleaseNotes": "New Server Added",
+  "Version": "19.0.0",
+  "ReleaseNotes": "New Server Added ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
-      "FLAG": "United State",
+      "FLAG": "random",
+      "ServerIP": "64.44.154.210",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "NO DATA LOAD",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***--- PUBLIC SERVER ---***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "United State",
+      "FLAG": "us",
       "ServerIP": "64.44.154.210",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
