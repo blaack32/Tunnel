@@ -1,12 +1,12 @@
 {
-  "Version": "26.0.0",
+  "Version": "27.0.0",
   "ReleaseNotes": "New Server Added ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "random",
-      "ServerIP": "157.245.119.9",
+      "ServerIP": "64.23.145.233",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,19 @@
     {
       "Name": "United State",
       "FLAG": "us",
-      "ServerIP": "157.245.119.9",
+      "ServerIP": "64.23.160.145",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
+      "sInfo": "NO DATA LOAD",
+      "Slowchave": "",
+      "Nameserver": "",
+      "servermessage": "***--- PUBLIC SERVER ---***",
+      "tunnelT": "UDP"
+    },
+    {
+      "Name": "United State",
+      "FLAG": "us",
+      "ServerIP": "64.23.160.145",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
