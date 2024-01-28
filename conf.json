@@ -1,12 +1,12 @@
 {
-  "Version": "33.0.0",
+  "Version": "34.0.0",
   "ReleaseNotes": "New Server Added ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "random",
-      "ServerIP": "172.104.174.192",
+      "ServerIP": "104.237.152.21",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "United State",
       "FLAG": "us",
-      "ServerIP": "172.104.174.192",
+      "ServerIP": "104.237.152.21",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
     {
       "Name": "United State",
       "FLAG": "us",
-      "ServerIP": "172.104.174.192",
+      "ServerIP": "104.237.152.21",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
