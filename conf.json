@@ -1,11 +1,11 @@
 {
-  "Version": "36.0.0",
+  "Version": "37.0.0",
   "ReleaseNotes": "New Server Added ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "United State #1",
-      "FLAG": "rd",
+      "FLAG": "US",
       "ServerIP": "198.74.49.219",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
