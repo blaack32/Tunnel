@@ -5,7 +5,7 @@
   "Servers": [
     {
       "Name": "Random Server",
-      "FLAG": "random",
+      "FLAG": "rd",
       "ServerIP": "198.74.49.219",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
