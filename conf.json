@@ -1,10 +1,10 @@
 {
-  "Version": "35.0.0",
+  "Version": "36.0.0",
   "ReleaseNotes": "New Server Added ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
-      "Name": "Random Server",
+      "Name": "United State #1",
       "FLAG": "rd",
       "ServerIP": "198.74.49.219",
       "ServerUser": "agnudp",
@@ -16,7 +16,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "United State",
+      "Name": "United State #2",
       "FLAG": "us",
       "ServerIP": "198.74.49.219",
       "ServerUser": "agnudp",
@@ -28,7 +28,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "United State",
+      "Name": "United State #3",
       "FLAG": "us",
       "ServerIP": "104.237.152.21",
       "ServerUser": "agnudp",
