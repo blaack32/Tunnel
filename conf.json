@@ -1,11 +1,11 @@
 {
-  "Version": "39.0.0",
+  "Version": "40.0.0",
   "ReleaseNotes": "New Server Added ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "United State #1",
-      "FLAG": "US",
+      "FLAG": "us",
       "ServerIP": "198.74.49.219",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -50,7 +50,8 @@
       "Nameserver": "",
       "servermessage": "***--- PUBLIC SERVER ---***",
       "tunnelT": "UDP"
-    },{
+    },
+    {
       "Name": "United State #5",
       "FLAG": "us",
       "ServerIP": "172.232.172.208",
@@ -61,7 +62,8 @@
       "Nameserver": "",
       "servermessage": "***--- PUBLIC SERVER ---***",
       "tunnelT": "UDP"
-    },{
+    },
+    {
       "Name": "United State #6",
       "FLAG": "us",
       "ServerIP": "50.116.23.208",
