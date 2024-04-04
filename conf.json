@@ -6,7 +6,7 @@
     {
       "Name": "United State #1",
       "FLAG": "us",
-      "ServerIP": "165.22.39.201",
+      "ServerIP": "157.245.11.12",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
      {
       "Name": "United State #2",
       "FLAG": "us",
-      "ServerIP": "134.209.165.229",
+      "ServerIP": "157.245.15.104",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
     {
       "Name": "United State #3",
       "FLAG": "us",
-      "ServerIP": "134.209.163.237",
+      "ServerIP": "157.245.7.205",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
     {
       "Name": "United State #4",
       "FLAG": "us",
-      "ServerIP": "134.209.161.224",
+      "ServerIP": "157.245.11.12",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
     {
       "Name": "United State #5",
       "FLAG": "us",
-      "ServerIP": "165.22.39.205",
+      "ServerIP": "157.245.15.104",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -66,7 +66,7 @@
     {
       "Name": "United State #6",
       "FLAG": "us",
-      "ServerIP": "165.22.39.201",
+      "ServerIP": "157.245.7.205",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
