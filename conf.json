@@ -62,18 +62,6 @@
       "Nameserver": "",
       "servermessage": "***--- PUBLIC SERVER ---***",
       "tunnelT": "UDP"
-    },
-    {
-      "Name": "United State #6",
-      "FLAG": "us",
-      "ServerIP": "157.245.7.205",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
     }
   ],
   "Networks": [
