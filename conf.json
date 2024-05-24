@@ -1,11 +1,11 @@
 {
-  "Version": "17.0.0",
+  "Version": "45.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
-      "FLAG": "kr",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -16,8 +16,8 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "Random Server",
-      "FLAG": "kr",
+      "Name": "USA",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -28,8 +28,8 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "Random Server",
-      "FLAG": "kr",
+      "Name": "USA",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -40,8 +40,8 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "Random Server",
-      "FLAG": "kr",
+      "Name": "USA",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -52,8 +52,8 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "Random Server",
-      "FLAG": "kr",
+      "Name": "USA",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -64,8 +64,8 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "Random Server",
-      "FLAG": "kr",
+      "Name": "USA",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -76,8 +76,8 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "Random Server",
-      "FLAG": "kr",
+      "Name": "USA",
+      "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
