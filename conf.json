@@ -1,12 +1,12 @@
 {
-  "Version": "45.0.0",
+  "Version": "46.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "us",
-      "ServerIP": "157.230.0.162",
+      "ServerIP": "64.44.154.232",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -16,9 +16,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA",
+      "Name": "USA 1",
       "FLAG": "us",
-      "ServerIP": "157.230.0.162",
+      "ServerIP": "64.44.154.231",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -28,9 +28,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA",
+      "Name": "USA 2",
       "FLAG": "us",
-      "ServerIP": "157.230.0.162",
+      "ServerIP": "64.44.154.232",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -40,9 +40,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA",
+      "Name": "USA 3",
       "FLAG": "us",
-      "ServerIP": "157.230.0.162",
+      "ServerIP": "64.44.154.231",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -52,9 +52,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA",
+      "Name": "USA 4",
       "FLAG": "us",
-      "ServerIP": "157.230.0.162",
+      "ServerIP": "164.44.154.231",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -64,9 +64,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA",
+      "Name": "USA 5",
       "FLAG": "us",
-      "ServerIP": "157.230.0.162",
+      "ServerIP": "64.44.154.232",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -76,7 +76,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "USA",
+      "Name": "USA 6",
       "FLAG": "us",
       "ServerIP": "157.230.0.162",
       "ServerUser": "agnudp",
