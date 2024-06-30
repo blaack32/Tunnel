@@ -1,12 +1,12 @@
 {
-  "Version": "48.0.0",
-  "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
-  "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
+  "Version": "49.0.0",
+  "ReleaseNotes": "CONFIG VERSION 49.0.0",
+  "ReleaseNotes1": "Join our telegram channel",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "us",
-      "ServerIP": "64.44.154.232",
+      "ServerIP": "64.44.154.243",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
   {
       "Name": "USA #1",
       "FLAG": "us",
-      "ServerIP": "64.44.154.231",
+      "ServerIP": "64.44.154.244",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
