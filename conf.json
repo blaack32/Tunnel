@@ -1,12 +1,12 @@
 {
-  "Version": "49.0.0",
+  "Version": "50.0.0",
   "ReleaseNotes": "CONFIG VERSION 49.0.0",
   "ReleaseNotes1": "Join our telegram channel",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "us",
-      "ServerIP": "64.44.154.243",
+      "ServerIP": "64.44.154.244",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
   {
       "Name": "USA #3",
       "FLAG": "us",
-      "ServerIP": "64.44.154.243",
+      "ServerIP": "64.44.154.244",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -66,7 +66,7 @@
   {
       "Name": "USA #5",
       "FLAG": "us",
-      "ServerIP": "64.44.154.243",
+      "ServerIP": "64.44.154.244",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -90,7 +90,7 @@
     {
       "Name": "USA #6",
       "FLAG": "us",
-      "ServerIP": "64.44.154.243",
+      "ServerIP": "64.44.154.244",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
