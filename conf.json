@@ -1,12 +1,12 @@
 {
-  "Version": "60.0.0",
-  "ReleaseNotes": "CONFIG VERSION 60.0.0, Join our telegram channel",
+  "Version": "61.0.0",
+  "ReleaseNotes": "CONFIG VERSION 61.0.0, Join our telegram channel",
   "ReleaseNotes1": "Join our telegram channel",
   "Servers": [
     {
       "Name": "Random Server",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
   {
       "Name": "USA #1",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
   {
       "Name": "USA #2",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
   {
       "Name": "USA #3",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
   {
       "Name": "USA #4",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -66,7 +66,7 @@
   {
       "Name": "USA #5",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -78,7 +78,7 @@
     {
       "Name": "USA #6",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -90,7 +90,7 @@
     {
       "Name": "USA #6",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -102,7 +102,7 @@
     {
       "Name": "USA #7",
       "FLAG": "us",
-      "ServerIP": "64.44.154.213",
+      "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
