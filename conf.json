@@ -1,12 +1,11 @@
-
 {
-  "Version": “64.0.0”,
-  "ReleaseNotes": "CONFIG VERSION 64.0.0\n\n ",
+  "Version": “65.0.0”,
+  "ReleaseNotes": "CONFIG VERSION 65.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
-      "Name": "United State",
-      "FLAG": “us”,
+      "Name": "Random Server",
+      "FLAG": "us",
       "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
@@ -17,7 +16,7 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "United State",
+      "Name": "USA",
       "FLAG": "us",
       "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
@@ -27,8 +26,7 @@
       "Nameserver": "",
       "servermessage": "***--- PUBLIC SERVER ---***",
       "tunnelT": "UDP"
-    }
-  ],
+    }  ],
   "Networks": [
     {
       "Name": "DEFAULT CONFIG",
@@ -44,3 +42,4 @@
     }
   ]
 }
+
