@@ -1,22 +1,10 @@
 {
-  "Version": "61.0.0",
-  "ReleaseNotes": "CONFIG VERSION 61.0.0, Join our telegram channel",
-  "ReleaseNotes1": "Join our telegram channel",
+  "Version": "62.0.0",
+  "ReleaseNotes": "KINDLY JOIN OUR TELEGRAM CHANNEL FOR MORE UPDATES CONFIG VERSION 62 ",
+  "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
-      "Name": "Random Server",
-      "FLAG": "us",
-      "ServerIP": "45.58.35.54",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-  {
-      "Name": "USA #1",
+      "Name": "United State",
       "FLAG": "us",
       "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
@@ -28,7 +16,7 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA #2",
+      "Name": "United State",
       "FLAG": "us",
       "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
@@ -40,7 +28,7 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA #3",
+      "Name": "United State",
       "FLAG": "us",
       "ServerIP": "69.87.220.165",
       "ServerUser": "agnudp",
@@ -52,7 +40,7 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "USA #4",
+      "Name": "United State",
       "FLAG": "us",
       "ServerIP": "45.58.35.54",
       "ServerUser": "agnudp",
@@ -63,54 +51,6 @@
       "servermessage": "***--- PUBLIC SERVER ---***",
       "tunnelT": "UDP"
     },
-  {
-      "Name": "USA #5",
-      "FLAG": "us",
-      "ServerIP": "69.87.220.165",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "USA #6",
-      "FLAG": "us",
-      "ServerIP": "45.58.35.54",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "USA #6",
-      "FLAG": "us",
-      "ServerIP": "69.87.220.165",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    },
-    {
-      "Name": "USA #7",
-      "FLAG": "us",
-      "ServerIP": "45.58.35.54",
-      "ServerUser": "agnudp",
-      "ServerPass": "agnudp",
-      "sInfo": "NO DATA LOAD",
-      "Slowchave": "",
-      "Nameserver": "",
-      "servermessage": "***--- PUBLIC SERVER ---***",
-      "tunnelT": "UDP"
-    }  ],
   "Networks": [
     {
       "Name": "DEFAULT CONFIG",
