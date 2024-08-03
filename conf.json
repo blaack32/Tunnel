@@ -1,12 +1,12 @@
 {
-  "Version": "74.0.0",
-  "ReleaseNotes": "CONFIG VERSION 74.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\n",
+  "Version": "75.0.0",
+  "ReleaseNotes": "CONFIG VERSION 75.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\n",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "United State",
       "FLAG": "us",
-      "ServerIP": "45.58.35.54",
+      "ServerIP": "64.44.154.213",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
