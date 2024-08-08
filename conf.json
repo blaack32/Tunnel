@@ -1,12 +1,12 @@
 {
-  "Version": "77.0.0",
-  "ReleaseNotes": "CONFIG VERSION 77.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\n",
+  "Version": "79.0.0",
+  "ReleaseNotes": "CONFIG VERSION 79.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\n",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
-      "Name": "United State",
+      "Name": "United State #1",
       "FLAG": "us",
-      "ServerIP": "45.58.35.54",
+      "ServerIP": "192.53.123.44",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -16,9 +16,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "United State",
+      "Name": "United State #2",
       "FLAG": "us",
-      "ServerIP": "69.87.220.165",
+      "ServerIP": "172.104.163.102",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -28,9 +28,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "United State",
+      "Name": "United State #3",
       "FLAG": "us",
-      "ServerIP": "45.58.35.54",
+      "ServerIP": "192.53.123.44",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -40,9 +40,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "United State",
+      "Name": "United State #4",
       "FLAG": "us",
-      "ServerIP": "69.87.220.165",
+      "ServerIP": "172.104.163.102",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -52,9 +52,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "United State",
+      "Name": "United State #5",
       "FLAG": "us",
-      "ServerIP": "69.87.220.165",
+      "ServerIP": "192.53.123.44",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -64,9 +64,9 @@
       "tunnelT": "UDP"
     },
   {
-      "Name": "United State",
+      "Name": "United State #6",
       "FLAG": "us",
-      "ServerIP": "45.58.35.54",
+      "ServerIP": "172.104.163.102",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -76,9 +76,9 @@
       "tunnelT": "UDP"
     },
     {
-      "Name": "United State",
+      "Name": "United State #7",
       "FLAG": "us",
-      "ServerIP": "69.87.220.165",
+      "ServerIP": "192.53.123.44",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
