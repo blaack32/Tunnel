@@ -1,12 +1,12 @@
 {
-  "Version": "80.0.0",
+  "Version": "81.0.0",
   "ReleaseNotes": "CONFIG VERSION 80.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\n",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "United State #1",
       "FLAG": "us",
-      "ServerIP": "172.234.218.215",
+      "ServerIP": "173.230.140.183",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
   {
       "Name": "United State #2",
       "FLAG": "us",
-      "ServerIP": "172.234.236.161",
+      "ServerIP": "173.230.140.197",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
   {
       "Name": "United State #3",
       "FLAG": "us",
-      "ServerIP": "172.234.218.215",
+      "ServerIP": "173.230.140.183",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
   {
       "Name": "United State #4",
       "FLAG": "us",
-      "ServerIP": "172.234.236.161",
+      "ServerIP": "173.230.140.197",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
   {
       "Name": "United State #5",
       "FLAG": "us",
-      "ServerIP": "172.234.218.215",
+      "ServerIP": "173.230.140.183",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -66,7 +66,7 @@
   {
       "Name": "United State #6",
       "FLAG": "us",
-      "ServerIP": "172.234.236.161",
+      "ServerIP": "173.230.140.197",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -78,7 +78,7 @@
     {
       "Name": "United State #7",
       "FLAG": "us",
-      "ServerIP": "172.234.218.215",
+      "ServerIP": "173.230.140.183",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
