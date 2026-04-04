@@ -1,12 +1,12 @@
 {
-  "Version": "99.2.0",
+  "Version": "99.3.0",
   "ReleaseNotes": "CONFIG VERSION 90.0.0\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\n",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
       "Name": "United State #1",
       "FLAG": "us",
-      "ServerIP": "172.236.252.107",
+      "ServerIP": "51.89.230.201",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "United State #7",
       "FLAG": "us",
-      "ServerIP": "172.236.252.107",
+      "ServerIP": "51.89.230.201",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
